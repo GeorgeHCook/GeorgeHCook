@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm George</h1>
 <h3 align="center">Aspiring full stack developer!</h3>
 
-- 📫 How to reach me **georgehhcook@gmail.com**
+- 📫 Reach out to me on **georgehhcook@gmail.com**
 - 🌱 I'm currently **continuing to upgrade my skills and grow my confidence and ability within my current skillset.**
 - 💬 Ask me about **My previous career and how it has helped me learn to code!**
 
