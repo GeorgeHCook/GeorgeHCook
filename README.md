@@ -1,9 +1,9 @@
 <h1 align="center">George Cook</h1>
 <h3 align="center">Full stack developer!</h3>
 
-In an effort to change career, and seeking a new personal, academic and professional challenge, I recently undertook and completed a full stack development bootcamp with Le Wagon. The bootcamp experience was incredibly challengeing and rewarding and I am proud to now call myself a full stack developer. 
+In an effort to change career, and seeking a new personal, academic and professional challenge, I recently undertook and **completed** a full stack development bootcamp with Le Wagon. The bootcamp experience was **incredibly challengeing** and rewarding and I am **proud** to now call myself a full stack developer. 
 
-I bring over a decade of creative development and problem solving experience from the fine dining and beverage industry, along with a degree in illustration. My experience has given me a deep rooted and well rounded understanding of the creative process, which is something I found extremely useful throughout my training and continued learning.
+I bring over a decade of **creative development and problem solving** experience from the fine dining and beverage industry, along with a **degree in illustration**. My experience has given me a deep rooted and well rounded understanding of the **creative process**, which is something I find extremely useful throughout my training and continued learning.
 
 - 📫 Reach out to me on **georgehhcook@gmail.com**
 - 🌱 I'm currently **continuing to upgrade my skills and grow my confidence and ability within my current skillset.**
