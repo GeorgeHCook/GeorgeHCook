@@ -2,6 +2,10 @@
 <h3 align="center">Aspiring full stack developer!</h3>
 
 - 📫 How to reach me **georgehhcook@gmail.com**
+- 
+- 🌱 I'm currently **continuing to upgrade my skills and grow my confidence and ability within my current skillset.**
+
+- 💬 Ask me about **My previous career and how it has helped me learn to code!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
