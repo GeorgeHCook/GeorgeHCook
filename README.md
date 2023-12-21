@@ -1,5 +1,5 @@
 <h1 align="center">George Cook</h1>
-<h3 align="center">Full stack developer!</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 In an effort to change career, and seeking a new personal, academic and professional challenge, I recently undertook and **completed** a full stack development bootcamp with Le Wagon. The bootcamp experience was **incredibly challengeing** and rewarding and I am **proud** to now call myself a full stack developer. 
 
